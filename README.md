@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Puneet Sharma!
 
-![Profile Banner](https://source.unsplash.com/800x200/?technology,blue)
 
 
 
