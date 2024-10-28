@@ -3,7 +3,7 @@
 
 
 
-Aspiring Software Developer with a strong foundation in **full-stack development** and a passion for creating seamless user experiences. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering and have worked on various projects and internships to hone my skills in **front-end** and **back-end development**.
+Aspiring Software Developer with a strong foundation in **Full-stack development** and a passion for creating seamless user experiences. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering and have worked on various projects and internships to hone my skills in **Front-end** and **Back-end development**.
 
 ## 📫 Connect with Me
 - [LinkedIn](http://linkedin.com/in/puneetsharma09)
@@ -51,16 +51,6 @@ Aspiring Software Developer with a strong foundation in **full-stack development
 
 ---
 
-## 🌐 Featured Project
 
-### [Weather WebApp](https://github.com/ankuhspatil2002/Weather-App)
-A dynamic web app to fetch and display real-time weather data using:
-- **Frontend**: ReactJS, HTML, CSS
-- **Backend**: Node.js, Express.js
-- Allows users to search for weather info globally with responsive design for seamless cross-device usability.
-
-![Weather App](assets/weather_app_screenshot.png)
-
----
 
 Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to connect or check out my projects. Let's build something amazing together! 🚀
