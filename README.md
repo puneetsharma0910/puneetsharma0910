@@ -4,7 +4,7 @@
 
 
 
-Aspiring Software Developer with a strong foundation in **full-stack development** and a passion for creating seamless user experiences. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering at D.Y. Patil School of Engineering and Technology, Pune, and have worked on various projects and internships to hone my skills in **front-end** and **back-end development**.
+Aspiring Software Developer with a strong foundation in **full-stack development** and a passion for creating seamless user experiences. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering and have worked on various projects and internships to hone my skills in **front-end** and **back-end development**.
 
 ## 📫 Connect with Me
 - [LinkedIn](http://linkedin.com/in/puneetsharma09)
