@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Puneet Sharma!
 
-![Profile Banner](assets/profile_banner.png)
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+
 
 Aspiring Software Developer with a strong foundation in **full-stack development** and a passion for creating seamless user experiences. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering at D.Y. Patil School of Engineering and Technology, Pune, and have worked on various projects and internships to hone my skills in **front-end** and **back-end development**.
 
