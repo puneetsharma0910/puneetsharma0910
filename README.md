@@ -36,8 +36,10 @@ Aspiring Software Developer with a strong foundation in **Full-stack development
 ## 🌱 My Journey
 
 ### Work Experience
-- **Software Development Intern @ Zidio Development** (Aug 2024 - Present)  
-  - Developed responsive web applications, optimized user experience with a 25% reduction in load times, and conducted code reviews to maintain high code quality.
+- **Software Development Intern @ Zidio Development** (Aug 2024 - Oct 2024)  
+  - Conceptualized and delivered a scalable real-time analytics dashboard, integrating advanced algorithms to track and visualize user engagement metrics, ensuring a seamless and intuitive user experience across 
+    diverse platforms.
+    Optimized data processing workflows by architecting highly efficient API integration pipelines, achieving a 30% latency reduction and setting a new performance benchmark within the team.
 
 - **Software Development Intern @ CodersCave** (Aug 2024 - Sep 2024)  
   - Integrated APIs into web applications, enhancing interconnectivity and efficiency by 15% through optimized React components.
