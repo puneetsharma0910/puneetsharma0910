@@ -7,7 +7,6 @@ Aspiring Software Developer with a strong foundation in **Full-stack development
 
 ## 📫 Connect with Me
 - [LinkedIn](http://linkedin.com/in/puneetsharma09)
-- [GitHub](https://github.com/puneetsharma0910)
 - [LeetCode](https://leetcode.com/u/puneets09/)
 
 ---
