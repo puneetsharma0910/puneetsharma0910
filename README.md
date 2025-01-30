@@ -41,14 +41,6 @@ Aspiring Software Developer with a strong foundation in **Full-stack development
     diverse platforms.
     Optimized data processing workflows by architecting highly efficient API integration pipelines, achieving a 30% latency reduction and setting a new performance benchmark within the team.
 
-- **Software Development Intern @ CodersCave** (Aug 2024 - Sep 2024)  
-  - Integrated APIs into web applications, enhancing interconnectivity and efficiency by 15% through optimized React components.
-
-- **FullStack Developer Intern @ Suven Consultants** (Aug 2023 - Sep 2023)  
-  - Built and deployed responsive web applications with a focus on scalability and maintainability.
-
-- **Web Development & UI Intern @ VentureLattice** (Mar 2022 - Jul 2022)  
-  - Developed multiple websites, leveraging tools like Angular and Bootstrap to boost user engagement.
 
 ---
 
