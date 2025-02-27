@@ -11,8 +11,6 @@ Full stack web developer adept in **MERN stack and Next.js**, with a knack for s
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F75E6&center=true&vCenter=true&width=500&lines=Languages%3A+C%2B%2B%2C+JavaScript;Frontend%3A+React.js%2C+Next.js%2C+Angular;Backend%3A+Node.js%2C+Express.js;Databases%3A+MongoDB%2C+Firebase;Version+Control%3A+Git%2C+GitHub)
 
 
-
-
 ---
 
 ### 🔥 What I Do
